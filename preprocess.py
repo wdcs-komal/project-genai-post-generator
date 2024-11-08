@@ -31,6 +31,8 @@ def extract_metadata(post):
     2. JSON object should have exactly three keys: line_count, language and tags. 
     3. tags is an array of text tags. Extract maximum two tags.
     4. Language should be English or Hinglish (Hinglish means hindi + english)
+    5. Language should be Hindi 
+    6. Language should be Gujarati
     
     Here is the actual post on which you need to perform this task:  
     {post}
